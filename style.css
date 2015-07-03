@@ -1,1 +1,4 @@
-
+tbody > tr > th {
+  font-style:italic;
+  font-weight: normal;
+}
