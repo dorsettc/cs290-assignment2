@@ -3,4 +3,7 @@
     font-style:italic;
     font-weight: normal;
   }
+  th {
+    font-weight: bold;
+  }
 </style>
