@@ -1,4 +1,7 @@
 <style>
+table, tr, th, td {
+  border: 1px solid black;
+}
 #row_head {
   font-style: italic;
   font-weight: normal;
