@@ -3,4 +3,16 @@
   font-style: italic;
   font-weight: normal;
 }
+#red_text {
+  color: #FF0000;
+}
+#blue_text {
+  color: #0000FF;
+}
+#light_green_bg {
+  color: #00CC00;
+}
+#light_blue_bg {
+  color: #00FFCC;
+}
 </style>
