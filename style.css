@@ -29,8 +29,9 @@ dt:hover + dd {
   position: relative;
 }
 .inner-content {
-  margin: 0 auto;
-  background-color: blue;
+  top: 10px;
+  right: 15%;
+  background-color: #66FFFF;
   width: 75%;
   position: absolute;
 }
