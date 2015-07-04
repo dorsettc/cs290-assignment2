@@ -21,4 +21,17 @@ table, tr, th, td {
 dt:hover + dd {
   background: purple;
 }
+.outer-content {
+  padding: 20px;
+  background-color: pink;
+  width: 75%;
+  text-align: center;
+  position: relative;
+}
+.inner-content {
+  margin: 0 auto;
+  background-color: blue;
+  width: 75%;
+  position: absolute;
+}
 </style>
