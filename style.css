@@ -35,4 +35,7 @@ dt:hover + dd {
   width: 75%;
   position: absolute;
 }
+img {
+  float:left;
+}
 </style>
